@@ -11,6 +11,10 @@ package com.ittodl.hellojenkins;
  */
 public class HelloJenkins {
     
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args){
         
         int testTheNumber = testTheNumber();
@@ -18,9 +22,13 @@ public class HelloJenkins {
         System.out.println("The number is " + testTheNumber());
     }
     
+    /**
+     *
+     * @return
+     */
     public static int testTheNumber(){
         int i = 6;
-        return i;
+        return j;
     }
     
 }

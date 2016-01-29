@@ -54,7 +54,7 @@ public class HelloJenkinsTest {
     @Test
     public void testTestTheNumber() {
         System.out.println("testTheNumber");
-        int expResult = 6;
+        int expResult = 8;
         int result = HelloJenkins.testTheNumber();
         assertEquals(expResult, result);
         
