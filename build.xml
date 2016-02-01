@@ -14,10 +14,12 @@
       
 
    
-      <!--  <target name="run" depends="HelloJenkins-impl.jar">
+      
+
+    <target name="run" depends="HelloJenkins-impl.jar">
             <exec dir="bin" executable="launcher.exe">
                 <arg file="${dist.jar}"/>
             </exec>
-        </target> -->
+        </target>
 
 </project>
