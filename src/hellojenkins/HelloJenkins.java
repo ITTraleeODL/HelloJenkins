@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.ittodl.hellojenkins;
+package hellojenkins;
 
 /**
  *
@@ -28,7 +28,7 @@ public class HelloJenkins {
      */
     public static int testTheNumber(){
         int i = 6;
-        return j;
+        return i;
     }
     
 }

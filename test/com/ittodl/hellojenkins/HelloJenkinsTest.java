@@ -5,6 +5,7 @@
  */
 package com.ittodl.hellojenkins;
 
+import hellojenkins.HelloJenkins;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
