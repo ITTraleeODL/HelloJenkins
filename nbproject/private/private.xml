@@ -3,8 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/manifest.mf</file>
             <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/test/com/ittodl/hellojenkins/HelloJenkinsTest.java</file>
-            <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/src/com/ittodl/hellojenkins/HelloJenkins.java</file>
+            <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/build.xml</file>
+            <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/nbproject/project.xml</file>
+            <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/.gitignore</file>
+            <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/nbproject/project.properties</file>
+            <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/src/hellojenkins/HelloJenkins.java</file>
+            <file>file:/Users/administrator/NetBeansProjects/HelloJenkins/nbproject/build-impl.xml</file>
         </group>
     </open-files>
 </project-private>
